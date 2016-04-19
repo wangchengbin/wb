@@ -1,0 +1,41 @@
+cordova
+ionic
+redux ui 1.redux  2.webpack  3.mock server
+code 
+
+https://github.com /today/vue-exam
+
+
+VUE.JS  入门
+http://cn.vuejs.org/guide/
+
+NODEJS 
+优点： Evcent-driven 时间驱动
+       Non-blocking 非阻塞
+	前后端通吃
+	运行速度快
+	NodeJS 社区活动多
+ 	
+当前版本 v4.4.3LTS  v5.10.1 Stable
+
+
+Deplay https://www/heroku.com 
+	https://appengine.google.com
+
+nodejs 资源链接   
+
+
+ＧＩＴ　介绍
+　
+git diff 
+分支
+ 1，另一个分支
+2. 相互不影响
+ git branch test 创建到分支
+合并
+远端
+重置
+进阶
+资料  廖雪峰的官方网站
+恢复
+git flow
